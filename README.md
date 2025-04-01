@@ -1,4 +1,4 @@
-# Technology Change, Informatics, and Forecasting (TCIF) Lab
+# Technologies Change, Informatics, and Forecasting (TCIF) Lab
 
 Welcome to the **TCIF Lab** – an interdisciplinary research lab focused on understanding and shaping the future of technology through data-driven foresight. We explore how technological systems evolve, how information is structured and leveraged, and how intelligent forecasting can inform policy, strategy, and innovation.
 
