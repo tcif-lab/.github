@@ -44,5 +44,5 @@ Our lab’s work has been supported by national and international funding agenci
 
 For more information, get in touch,
 
-Prof. Hareesh Pillai (hareesh.pillai@usst.cn)
+Prof. Hareesh Pillai (hareeshg.pillai@gmail.com)
 Dr. Gagan Narang (g.narang@pm.univpm.it)
